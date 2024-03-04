@@ -1,0 +1,117 @@
+ID_Yac;Nivel;Fase;Corte;UE;Nivel2;Fase2;Cuadro;Capa;Muestra.Botanico;BP;Sd_short;Id_short;Muestra;MuestraEspecie;Agg;Método
+Mas_dIs;;VIb;Cabaña2;80205;;;;;;6600;40;Beta-166727;Semilla-Fruto;Hordeum vulgare;NO;
+Mas_dIs;;VIb;Cabaña2;80219;;;;Superior;;6600;50;Beta-162092;Semilla-Fruto;Hordeum sp.;NO;
+Castillejos;I;;6;;01-jun;1;;;;6310;45;Ua-36215;Semilla-Fruto;Cereal sp.;NO;SN
+Castillejos;I;;6;;01-jun;2;;;;6120;40;Ua-36213;Semilla-Fruto;Cereal sp.;NO;SN
+Castillejos;I;;6;;01-jun;3;;;;6260;45;Ua-36214;Semilla-Fruto;Cereal sp.;NO;SN
+Castillejos;I;;6;;01-jun;5;;;;6140;45;Ua-37844;Semilla-Fruto;Cereal sp.;NO;SN
+Castillejos;I;;6;;01-jun;5;;;;5400;45;Ua-36211;Semilla-Fruto;Cereal sp.;NO;SN
+Fal;VII;;;2051b;;VI;;;;6510;80;BETA-142289;Semilla-Fruto;Triticum monococcum;NO;AMS
+Chaves;;Ia;;;;;;;;6230;45;GrA-26912 ;Humano;Human;NO;AMS
+Chaves;;Ib;;;;;;;;6380;40;GrA-28341;Semilla-Fruto;Bellota;NO;AMS
+Chaves;;Ib;;;;;;;;6470;25;UCIAMS-66317;Animal;Ovis aries;NO;AMS
+Chaves;;Ib;;;;;;;;6580;35;GrA-38022;Animal;Ovis aries;NO;AMS
+Guixeres;;A;Ambito1;;;;G49;;;6655;45;OxA-26068;Animal;Ovis/Capra;NO;SN
+Guixeres;;A;Ambito2;;;;K32;;;6458;38;OxA-26069;Animal;Ovis aries;NO;SN
+Benàmer;;II;Sector1;1017;;;;;;6575;50;CNA-539;Semilla-Fruto;Polen;NO;SN
+Nerja;NM10;;Mina;NM10;;;;;;6342;37;OxA-26085;Animal;Ovis/Capra;NO;AMS
+Nerja;NV2;;Vestíbulo;NV2;;;;;;6185;21;MAMS-20437;Animal;Ovis/Capra;NO;AMS
+Draga;;ABC;SectorB;;II;Evento 8b. Uso;JH86;;;6163;31;OxA-20231;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorB;;II;Evento 8b. Uso;JH84-85;;;6121;33;OxA-20232;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorA;;II-IIIb;Evento 9. Segunda ocupación;B-21;;;6179;33;OxA-20233;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorA;fogarE-5;I;Evento 12. Segunda ocupación;;;;6127;33;OxA-20234;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorA;fogarE-21;I;Evento 10. Segunda ocupación;;;;6143;33;OxA-20235;Semilla-Fruto;Cereal sp.;NO;AMS
+Sant_Pau;Silo1;;;Silo1;IV base;;;;;6290;50;Beta-236174;Animal;SN;NO;AMS
+Nerja;NV3-silo;;Vestíbulo;NV3-silo;;;;D5;;6590;40;Beta-131577;Animal;Ovis aries;NO;AMS
+Toro;;IV;;;;;;;;6200;30;Beta-365294;Animal;ovis/capra;NO;AMS
+Barranquet;79;;;79;;Impressa;;;;6510;50;Beta-221431;Animal;ovis/carpa;NO;AMS
+Valmayor;III;;;1;;;;;;6090;30;Beta-341167;Animal;SN;NO;SN
+Chaves;;Ia;;;;;;;;6227;28;MAMS-28127;Humano;Human;NO;SN
+Chaves;;Ia;;;;;;;;6180;54;D-AMS015831;Humano;Human;NO;AMS
+Sadurní;IIIC;;;;;Antic Cardial pleno;;18;;6340;35;CNA-4693.1.1;Animal;Suido;NO;AMS
+Sadurní;IIIC;;;;;Antic Cardial pleno;;18;;6370;30;Beta-398966;Humano;Human;NO;AMS
+Sadurní;IIIC;;;;;Antic Cardial pleno;;18;;6400;30;Beta-398967;Humano;Human;NO;AMS
+Guixeres;;C;;;;;K32;;;5700;30;Beta-486363;Semilla-Fruto;Bellota;NO;SN
+Trocs;53;I;;53;;;;;;6080;40;Beta-316512;Semilla-Fruto;Cereal sp.;NO;SN
+Atxoste;IIIb2;;;;IIIb2;;;;;6710;50;GrA-13417;Animal;sn;NO;Convencional
+Guixeres;;B;;;;;;;;5980;30;Beta574950;Animal;Ovis aries;NO;AMS
+Guixeres;;A;;;;;;;;6440;30;Beta574948;Semilla-Fruto;Hordeum vulgare;NO;AMS
+Guixeres;;A;;;;;;;;6350;30;Beta486365;Animal;Macromamífero;NO;AMS
+Guixeres;;A;;;;;;;;6330;30;Beta486366;Animal;Ovis/Capra;NO;AMS
+Fem;103;;Secció 1;103;;Antic Cardial;G13;;;6570;30;Beta-42865;Carbon;sn;NO;AMS
+Cremat;V;;;;;;;;;6800;50;Beta-232341;Carbon;Sorbus sp.;NO;AMS
+Cremat;VI;;;;;;;;;6750;50;Beta-232342;Carbon;Sorbus sp.;NO;AMS
+Cremat;III;;;;;;;;;5960;50;Beta-232340;Carbon;Sorbus sp.;NO;AMS
+Artusia;III;;;SU 20;;;;;;7680;40;Beta-374431;Carbon;Corylus;NO;SN
+Artusia;V;;;Nivel ocupación;;;;;;7210;30;Beta-379670;Carbon;Fraxinus sp.;NO;SN
+Draga;;ABC;SectorC;;II;Evento 7b. Uso;;;;6098;26;ETH-88870;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorC;;II;Evento 7b. Uso;;;;6123;26;ETH-88871;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorB;;II;Evento 8b. Uso;;;;6142;26;ETH-88869;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorA;E14;;Evento 15. Segunda ocupación;;;;6108;26;ETH-88867;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorA;E65;;Evento 16. Segunda ocupación;;;;6141;26;ETH-88868;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorA;E26;;Evento 17. Segunda ocupación;;;;6140;30;Beta-579521;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorA;E52;;Evento 18. Segunda ocupación;;;;6130;30;Beta-580972;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorA;E254;;Evento 20. Segunda ocupación;;;;6142;26;ETH-88876;Semilla-Fruto;Cereal sp.;NO;AMS
+Draga;;ABC;SectorA;E255;;Evento 27. Last Neolithic;;;;5990;30;Beta-579522;Semilla-Fruto;Cereal sp.;NO;AMS
+Xicotó;II;;;E3;;;;;;6210;40;Beta-382458;Carbon;SN;NO;AMS
+Nerja;NM9;;Mina;NM9;;;;;;6252;33;Oxa-26083;Animal;Ovis/capra;NO;AMS
+Nerja;NM9;;Mina;NM9;;;;;;6254;33;Oxa-26084;Animal;Ovis/capra;NO;AMS
+Ángel2;2a2;;Ángel 2;;;;;;;7120;50;Beta-286820;Carbon;sn;NO;SN
+Atxoste;IV;;;;IV;;;;;7340;50;GrA-13418;Animal;sn;NO;Convencional
+Espantalobos;c;;8;;;;14D;;Si;7390;40;Beta361624;Carbon;Juniperus sp;NO;SN
+Valcervera;b;;;;;;;z-185;;6995;40;GrA-45783;Animal;SN;NO;AMS
+Valcervera;b;;;;;;;z-240;;7035;45;GrA-45763;Animal;SN;NO;AMS
+Cabezo;cabaña;;;1397;;;;;;7150;70;GrN-29135;Carbon;Pinus halepensis;NO;Convencional
+Botiquería;2;;;;;;;;;7600;50;GrA-13265;Animal;ciervo;NO;AMS
+Botiquería;4;;;;;;;;;6830;50;GrA-13267;Animal;mamífero;NO;AMS
+Forcas;II;;;;;;;;;7150;40;Beta-250944;Animal;ni;NO;AMS
+Forcas;IV;;;;;;;;;7000;40;Beta-290932;Animal;ni;NO;AMS
+Fal;Xa;;3;3151;;VIII;;;;7526;44;AA-59519;Semilla-Fruto;Bractea piña;NO;SN
+Fal;VIII;;3;3137;;VII inf;;;;7380;40;Beta-267441;Animal;Cervus elaphus;NO;SN
+Esplugón;3inf;;;;;;2A;;;6950;50;Beta306723;Animal;;NO;SN
+Atxoste;IV;;;;IV;;;;;6970;40;GrA-13419;Animal;sn;NO;AMS
+Benàmer;;I;;2578;;;;;;7480;40;Beta-287331;Carbon;Madroño;NO;AMS
+Or;;V;;;;;K34;19;;6340;40;Beta298125;Semilla-Fruto;cereal;NO;AMS
+Or;;IV;;;;;K34;14;;6290;70;Beta298124;Semilla-Fruto;cereal;NO;AMS
+Or;;VI;;;;;J4;17;;6310;70;OxA10192;Semilla-Fruto;cereal;NO;AMS
+Or;;VI;;;;;J4;14;;6275;70;OxA10191;Semilla-Fruto;cereal;NO;AMS
+Or;;VI;;;;;H3;7;;6290;75;H1754-1208;Semilla-Fruto;cereal;NO;AMS
+Or;;V;;;;;H3;6;;6356;23;MAMS19063;Humano;;NO;AMS
+Pontet;e;;;;;;;;;7341;32;DAMS-020210;Carbon;pinus halepensis;NO;AMS
+Pontet;e;;;;;;;;;7340;70;GrN-16313;Carbon;Indeterminate;NO;Convencional
+Cocina;;A1;1941;11;;;;;;7415;35;UCIAMS-147347;Animal;Capra pyrenaica ;NO;AMS
+Cocina;;A1;1945;17;;;;;;7610;40;Beta-267440;Animal;Capra pyrenaica ;NO;AMS
+Cocina;;A2;1941;6;;;;;;7300;30;UCIAMS-145194;Animal;Cervus elaphus ;NO;AMS
+Cocina;;A2;1941;8;;;;;;7475;25;UCIAMS-145195;Animal;Capra pyrenaica;NO;AMS
+Cocina;;A2;1945;12;;;;;;7350;40;Beta-267438;Animal;Capra pyrenaica;NO;AMS
+Cocina;;B1;1945;10;;;;;;7050;50;Beta-267437;Animal;Capra pyrenaica;NO;AMS
+Cocina;;B1;4;1424;;;;;;6940;30;Beta-512548;Animal;Capra pyrenaica;NO;AMS
+Cocina;;B1;4;1404;;;;;;6980;30;Beta-599656;Semilla-Fruto;pine cone;NO;AMS
+Cocina;;B1;4;1416;;;KE2S;;;6970;30;Beta-599657;Semilla-Fruto;pine cone;NO;AMS
+Cocina;;B2;1941;3;;;;;;6970;35;UCIAMS-147346;Animal;Cervus elaphus;NO;AMS
+Cocina;;B2;1945;8;;;;;;7080;50;Beta-267436;Animal;Cervus elaphus;NO;AMS
+Cocina;;B2;4;1223;;;KE2S;;;6760;30;Beta-599654;Semilla-Fruto;pine cone;NO;AMS
+Cocina;;B2;4;1230;;;KE2S;;;6880;30;Beta-599655;Semilla-Fruto;pine cone;NO;AMS
+Cocina;;B3;1945;6;;;;;;6840;50;Beta-267435;Animal;Capra pyrenaica;NO;AMS
+Cocina;;B3;1941;1;;;;;;6590;25;PSU5323;Animal;Capra pyrenaica;NO;AMS
+Cocina;;B3;6;1126;;;;;;6760;30;Beta-512549;Animal;Capra pyrenaica;NO;AMS
+Cocina;;B3;5;1078;;;;;;6705;35;UCIAMS-174945;Animal;Capra pyrenaica;NO;AMS
+Costamar;;NII;278-531;;;;;;;5880;30;Beta547048;Animal;cervus elaphus;NO;SN
+Costamar;;NII;389-642;;;;;;;5890;30;Beta569720;Animal;Bos sp;NO;SN
+Cendres;VIII;;;H15;;;;;;5917;25;ETH107005;Semilla-Fruto;cereal;NO;AMS
+Cendres;X;;;H18;;;;;;6406;25;ETH107003;Semilla-Fruto;cereal;NO;AMS
+Cendres;X;;;H17;;;;;;6406;25;ETH107004;Semilla-Fruto;cereal;NO;AMS
+Cendres;X;;;H17;;;;;;6316;30;CNA508611;Animal;coprolito ovis capra;NO;AMS
+Cendres;VIIa;;;H14;;;;;;6133;37;CNA483312;Animal;coprolito ovis capra;NO;AMS
+Cendres;VIIa;;;H14;;;;;;5955;31;CNA508511;Animal;coprolito;NO;AMS
+Cendres;XI;;;H19;;;;;;6482;25;ETH107001;Semilla-Fruto;cereal;NO;Convencional
+Cendres;XI;;;H19;;;;;;6468;25;ETH107002;Semilla-Fruto;cereal;NO;Convencional
+Cendres;IX;;;H15a;;;;;;6224;45;CNA483411;Semilla-Fruto;cereal;NO;AMS
+Collao;I;;;;;;;;;7660;44;UBA-27478;Animal;Cervus elaphus;NO;SN
+Cendres;XI;;;;;;;;;6580;30;Cendres07;Semilla-Fruto;cereal;NO;AMS
+Corona;LM;;;Burial 2;;;;;;7116;32;OxA-V-2392-92;Humano;Human;NO;AMS
+Corona;LM;;;Burial 1;;;;;;7070;40;Beta-272856;Humano;Human;NO;AMS
+Costamar;;NII;;13002;;;;;;5965;25;UCIAMS56073;Animal;Bos taurus;NO;AMS
+Costamar;;NII;;40102;;;;;;5996;38;OxAV23578;Semilla-Fruto;Cereal;NO;AMS
+Mas_Nou;III enterramiento;;3;;;;;;;6925;35;OxA-V-2360-29;Humano;Human;NO;AMS
+Mas_Nou;III enterramiento;;3;;;;;;;6897;34;OxA-V-2360-28;Humano;Human;NO;AMS
